@@ -24,9 +24,5 @@ llama_ev_troubleshooting_eval_scored.csv — all 20 questions, Llama's answers, 
 gemma_ev_troubleshooting_eval_scored.csv — all 20 questions, Gemma's answers, and reviewer scoring
 About this project
 
-This is my first project moving from AI research interest into hands-on model evaluation. Background is in BMS/HV systems, which is what the domain scoring in this repo is grounded in.
 
-Next steps
-Add a third (frontier) model as a reference point
-Expand the PPE-before-diagnosis check into a repeatable scoring rubric
-Revisit the closer-call "Partial" verdicts with a second reviewer pass
+
